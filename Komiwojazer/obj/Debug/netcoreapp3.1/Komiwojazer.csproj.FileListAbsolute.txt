@@ -1,0 +1,13 @@
+C:\Users\Damian K\Desktop\Komiwojazer\bin\Debug\netcoreapp3.1\Komiwojazer.exe
+C:\Users\Damian K\Desktop\Komiwojazer\bin\Debug\netcoreapp3.1\Komiwojazer.deps.json
+C:\Users\Damian K\Desktop\Komiwojazer\bin\Debug\netcoreapp3.1\Komiwojazer.runtimeconfig.json
+C:\Users\Damian K\Desktop\Komiwojazer\bin\Debug\netcoreapp3.1\Komiwojazer.runtimeconfig.dev.json
+C:\Users\Damian K\Desktop\Komiwojazer\bin\Debug\netcoreapp3.1\Komiwojazer.dll
+C:\Users\Damian K\Desktop\Komiwojazer\bin\Debug\netcoreapp3.1\Komiwojazer.pdb
+C:\Users\Damian K\Desktop\Komiwojazer\obj\Debug\netcoreapp3.1\Komiwojazer.csprojAssemblyReference.cache
+C:\Users\Damian K\Desktop\Komiwojazer\obj\Debug\netcoreapp3.1\Komiwojazer.csproj.CoreCompileInputs.cache
+C:\Users\Damian K\Desktop\Komiwojazer\obj\Debug\netcoreapp3.1\Komiwojazer.AssemblyInfoInputs.cache
+C:\Users\Damian K\Desktop\Komiwojazer\obj\Debug\netcoreapp3.1\Komiwojazer.AssemblyInfo.cs
+C:\Users\Damian K\Desktop\Komiwojazer\obj\Debug\netcoreapp3.1\Komiwojazer.dll
+C:\Users\Damian K\Desktop\Komiwojazer\obj\Debug\netcoreapp3.1\Komiwojazer.pdb
+C:\Users\Damian K\Desktop\Komiwojazer\obj\Debug\netcoreapp3.1\Komiwojazer.genruntimeconfig.cache
